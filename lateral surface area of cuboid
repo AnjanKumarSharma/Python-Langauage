@@ -1,0 +1,8 @@
+import math
+h=float(input('enter height of cuboid'))
+l=float(input('enter lenght of cuboid'))
+w=float(input('enter width of cuboid'))
+area=2*h*(w+l)
+print("lateral area of cuboid=",area)
+
+

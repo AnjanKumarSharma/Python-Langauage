@@ -1,0 +1,6 @@
+import math
+a=float(input('enter side of cube'))
+p=12*a
+print("perimerter of cube=",p)
+
+

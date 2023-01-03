@@ -1,0 +1,8 @@
+import math
+h=float(input('enter height of cuboid'))
+l=float(input('enter lenght of cuboid'))
+w=float(input('enter width of cuboid'))
+d=math.sqrt((l**2)+(w**2)+(h**2))
+print("lengh of body diagonal of cuboid=",d)
+
+

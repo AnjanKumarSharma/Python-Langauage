@@ -1,0 +1,6 @@
+import math
+a=float(input('enter side of cube'))
+d=math.sqrt(3)*a
+print("length of body diagonal of cube=",d)
+
+

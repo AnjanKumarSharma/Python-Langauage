@@ -1,0 +1,6 @@
+import math
+side=float(input('enter side of rhombus'))
+p=4*side
+print("perimeter of rhombus",p)
+
+

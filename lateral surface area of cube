@@ -1,0 +1,9 @@
+import math
+a=float(input('enter side of cube'))
+
+
+
+area=4*a**2
+print("lateral surface area of cube=",area)
+
+

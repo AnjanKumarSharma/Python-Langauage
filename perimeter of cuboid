@@ -1,0 +1,8 @@
+import math
+h=float(input('enter height of cuboid'))
+l=float(input('enter lenght of cuboid'))
+w=float(input('enter width of cuboid'))
+p=4*((l)+(w)+(h))
+print("perimeter of cuboid=",p)
+
+

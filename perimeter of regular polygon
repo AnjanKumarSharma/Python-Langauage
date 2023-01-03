@@ -1,0 +1,5 @@
+import math
+n=float(input('enter no of sides of regular polygon'))
+s=float(input('enter length of side of regular polygon')) #perimeter=n*length of side
+p=n*s
+print("perimeter of regular polygon",p)
