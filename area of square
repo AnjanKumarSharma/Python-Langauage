@@ -1,0 +1,6 @@
+import math
+side=float(input('enter side of square'))
+a=side*side
+print("area of square",a)
+
+

@@ -1,0 +1,7 @@
+import math
+d1=float(input('enter 1st diagonal of rhombus'))
+d2=float(input('enter 2nd diagonal of rhombus'))
+area=d1/2*d2  #side*side*sin(angle bt sides)
+print("area of rhombus",area)
+
+

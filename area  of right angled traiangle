@@ -1,0 +1,9 @@
+import math
+a=float(input('enter largest side of triangele'))
+b=float(input('enter base side of triangele'))
+
+
+area=1/2*b*a
+print("area of triangle=",area)
+
+

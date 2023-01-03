@@ -1,0 +1,7 @@
+import math
+l=float(input('enter length of rectangle'))
+b=float(input('enter breadth of rectangle'))
+a=l*b
+print("area of rectangle",a)
+
+

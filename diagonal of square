@@ -1,0 +1,6 @@
+import math
+side=float(input('enter side of square'))
+d=math.sqrt(2)*side
+print("diagonal of square",d)
+
+

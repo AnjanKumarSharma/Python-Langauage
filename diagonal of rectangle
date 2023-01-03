@@ -1,0 +1,7 @@
+import math
+l=float(input('enter length of rectangle'))
+b=float(input('enter breadth of rectangle'))
+d=math.sqrt(l**2+b**2)
+print("diagonal  of rectangle",d)
+
+

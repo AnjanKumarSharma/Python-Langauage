@@ -1,0 +1,15 @@
+class test:
+      x=0
+      def __init__(self):
+            self.x=int(input('enter no'))
+      def fact(self):
+          f=1
+          for i in range (1,self.x+1):
+                   f*=i
+          print('factorial of', self.x,'is',f)
+
+
+a=test()  
+a.fact()   
+b=test()    
+b.fact()

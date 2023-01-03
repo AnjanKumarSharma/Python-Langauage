@@ -1,0 +1,8 @@
+import math
+r=float(input('enter radius of sphere'))
+#h=float(input('height of cylinder'))
+
+area=4*22/7*r**2
+print("curved surface area of sphere",area)
+
+

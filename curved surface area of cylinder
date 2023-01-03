@@ -1,0 +1,8 @@
+import math
+r=float(input('enter radius of base of cylinder'))
+h=float(input('height of cylinder'))
+
+area=2*22/7*r*h
+print("curved surface area of cone",area)
+
+

@@ -1,0 +1,5 @@
+import math
+a=float(input('enter apotherm of regular polygon'))
+p=float(input('enter perimeter of regular polygon')) #perimeter=n*length of side
+area=p/2*a
+print("area of regular polygon",area)
