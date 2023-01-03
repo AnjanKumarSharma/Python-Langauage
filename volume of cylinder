@@ -1,0 +1,9 @@
+import math
+r=float(input('enter radius of base of cylinder'))
+h=float(input('height of cylinder'))
+#l=math.sqrt((r**2)+(h**2))
+#area=22/7*r*(r+l)
+v=22/7*r**2*h
+print(" volume of cylinder",v)
+
+

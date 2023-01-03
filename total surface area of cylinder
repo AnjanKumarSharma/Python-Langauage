@@ -1,0 +1,8 @@
+import math
+r=float(input('enter radius of base of cylinder'))
+h=float(input('height of cylinder'))
+
+area=2*22/7*r*(r+h)      
+print("total surface area of cylinder",area)
+
+

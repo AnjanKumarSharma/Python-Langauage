@@ -1,0 +1,8 @@
+import math
+r=float(input('enter radius of hemi-sphere'))
+#h=float(input('height of cylinder'))
+
+area=3*22/7*r**2
+print("total surface area of hemi-sphere",area)
+
+

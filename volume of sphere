@@ -1,0 +1,8 @@
+import math
+r=float(input('enter radius of sphere'))
+#h=float(input('height of cylinder'))
+
+v=4*22/7*r**3/3
+print("volume of sphere",v)
+
+

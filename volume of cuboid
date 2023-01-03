@@ -1,0 +1,8 @@
+import math
+h=float(input('enter height of cuboid'))
+l=float(input('enter lenght of cuboid'))
+w=float(input('enter width of cuboid'))
+v=l*w*h
+print("volume of cuboid=",v)
+
+
